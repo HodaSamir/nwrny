@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ap-cogen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ap-cogen.myshopify.com/collections/special-product/xs+xl.atom"/>
+  <title>Ap Cogen</title>
+  <updated>2016-08-23T23:01:00-04:00</updated>
+  <author>
+    <name>Ap Cogen</name>
+  </author>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068154691</id>
+    <published>2016-08-23T23:01:00-04:00</published>
+    <updated>2016-08-23T23:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/amet-nunc-consequat"/>
+    <title>Fashion consequat</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Shopify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/0cdb8024983235-min.jpg?v=1472014430" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shopify<br />
+        <strong>Type: </strong>Dresses<br />
+        <strong>Price: </strong>
+            19.00 - 39.00
+            <a href="https://ap-cogen.myshopify.com/products/amet-nunc-consequat">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>dealday_2016-08-20T00:00:00</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Under $50</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154691</id>
+      <title>Red / S</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154691</id>
+      <title>Green / M</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154691</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068157699</id>
+    <published>2016-08-19T05:03:08-04:00</published>
+    <updated>2016-08-19T05:03:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/egestas-bibendum-duiat-lorem-commodo"/>
+    <title>Egestas bibendum</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/Slash-Lamp-5-min.jpg?v=1472008242" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $400</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068157699</id>
+      <title>Default Title</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068157315</id>
+    <published>2016-08-19T05:03:04-04:00</published>
+    <updated>2016-08-19T05:03:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/sony-bravia-w-series"/>
+    <title>Habitasse consequat</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/pf4-min.jpg?v=1472008252" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068157315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068158019</id>
+    <published>2016-08-19T05:03:00-04:00</published>
+    <updated>2016-08-19T05:03:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/bibendum-egestas-bibendum-lorem-commodo"/>
+    <title>Bibendum egestas</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/50eb8f24983235-min.jpg?v=1472007805" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            1130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068158019</id>
+      <title>XS</title>
+      <s:price currency="USD">1130.00</s:price>
+      <s:sku>1050145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068158019</id>
+      <title>XL</title>
+      <s:price currency="USD">1130.00</s:price>
+      <s:sku>1050152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068157059</id>
+    <published>2016-08-19T05:03:00-04:00</published>
+    <updated>2016-08-19T05:03:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/canon-eos-40d-10-1mp-slr-camera"/>
+    <title>ED table plays a bigg</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/Zuo_Era_plymouth_ceiling_lamp_1-min_380a390e-9095-463c-857a-83cd68ce2f41.jpg?v=1472008239" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            1720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068157059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1720.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068156611</id>
+    <published>2016-08-19T05:02:55-04:00</published>
+    <updated>2016-08-19T05:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/electrolux-el-6988d-oxygen-canister"/>
+    <title>Electrolux EL 6988D</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/porirua-ceiling-light-cage-pendant-zuo-min_2baaa448-d8c1-47bf-9814-9d080ef5451a.jpg?v=1472008249" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068156611</id>
+      <title>Default Title</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068154115</id>
+    <published>2016-08-19T05:02:27-04:00</published>
+    <updated>2016-08-19T05:02:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/consequat-sagittis-lacinia"/>
+    <title>Consequat sagittis</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Vendor 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/91e65624983235-min.jpg?v=1472007811" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 1<br />
+        <strong>Type: </strong>Coats &amp; Jackets<br />
+        <strong>Price: </strong>
+            18.00 - 19.00
+            <a href="https://ap-cogen.myshopify.com/products/consequat-sagittis-lacinia">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Fuchsia</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Under $50</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154115</id>
+      <title>White</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154115</id>
+      <title>Green</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068154115</id>
+      <title>Blue</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068156739</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/lg-lfd850-ipod-cradle"/>
+    <title>KH table plays a bigg</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/pf3-min_9590f4e7-2990-4e59-b057-4ca435e0da84.jpg?v=1472008257" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $400</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068156739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068156099</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/libero-quis-enim-vehicula"/>
+    <title>Libero quis</title>
+    <s:type>Bags &amp; Purses</s:type>
+    <s:vendor>Vendor 6</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/pf1-min_502e4abe-db02-4be0-86cf-8d5c946996cc.jpg?v=1472008265" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 6<br />
+        <strong>Type: </strong>Bags &amp; Purses<br />
+        <strong>Price: </strong>
+            58.00 - 59.00
+            <a href="https://ap-cogen.myshopify.com/products/libero-quis-enim-vehicula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 - $100</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068156099</id>
+      <title>White / M</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068156099</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068156099</id>
+      <title>Red / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068153603</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/egestas-lorem-commodo"/>
+    <title>Egestas commodo</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vendor 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/simple-rustic-table-lamps-min_f0f3a154-7970-4836-8761-68318345e2d3.jpg?v=1472008246" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 5<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            118.00 - 119.00
+            <a href="https://ap-cogen.myshopify.com/products/egestas-lorem-commodo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:tag>Fuchsia</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068153603</id>
+      <title>White</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068153603</id>
+      <title>Green</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068153603</id>
+      <title>Red</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068152835</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/suspendisse-turpis-laoreet"/>
+    <title>OA table plays a big</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Vendor 6</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/bi-color_washi05_akihiro_yoshida-min_4b399622-8882-452b-ba53-1f0326a4a5c6.jpg?v=1472008486" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 6<br />
+        <strong>Type: </strong>Coats &amp; Jackets<br />
+        <strong>Price: </strong>
+            118.00 - 119.00
+            <a href="https://ap-cogen.myshopify.com/products/suspendisse-turpis-laoreet">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152835</id>
+      <title>White</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152835</id>
+      <title>Green</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152835</id>
+      <title>Red</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068152643</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/commodo-habitasse-lacus"/>
+    <title>VN table plays a bigg</title>
+    <s:type>Bags &amp; Purses</s:type>
+    <s:vendor>Vendor2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/Concrete_clock_crafts_diy_11-min_bd56b693-05b5-4823-bbe8-f3485b61bfe5.jpg?v=1472008499" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor2<br />
+        <strong>Type: </strong>Bags &amp; Purses<br />
+        <strong>Price: </strong>
+            18.00 - 19.99
+            <a href="https://ap-cogen.myshopify.com/products/commodo-habitasse-lacus">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Under $50</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152643</id>
+      <title>White</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152643</id>
+      <title>Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152643</id>
+      <title>Red</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068152003</id>
+    <published>2016-08-19T05:02:00-04:00</published>
+    <updated>2016-08-19T05:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/porttitor-arcst-neapien"/>
+    <title>AV table plays a big</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Vendor 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/Zuo_Era_plymouth_ceiling_lamp_1-min.jpg?v=1472866691" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 1<br />
+        <strong>Type: </strong>Shirts<br />
+        <strong>Price: </strong>
+            48.00 - 49.00
+            <a href="https://ap-cogen.myshopify.com/products/porttitor-arcst-neapien">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>dealday_2016-12-20T00:00:00</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Under $50</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152003</id>
+      <title>White</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152003</id>
+      <title>Blue</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068152003</id>
+      <title>Red</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068150979</id>
+    <published>2016-08-19T05:01:00-04:00</published>
+    <updated>2016-08-19T05:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/curabitur-porta-aliquetnter"/>
+    <title>Curabitur aliquetnter</title>
+    <s:type>Women&apos;s Shirts &amp; Blouses</s:type>
+    <s:vendor>Vendor 4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/56295b52b351f-min.jpg?v=1472007813" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 4<br />
+        <strong>Type: </strong>Women&#39;s Shirts &amp; Blouses<br />
+        <strong>Price: </strong>
+            118.00 - 119.99
+            <a href="https://ap-cogen.myshopify.com/products/curabitur-porta-aliquetnter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150979</id>
+      <title>White</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>example-shirt-w</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150979</id>
+      <title>Black</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>example-shirt-l</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150979</id>
+      <title>Green</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>example-shirt-f</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068150467</id>
+    <published>2016-08-19T05:01:00-04:00</published>
+    <updated>2016-08-19T05:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/bibendum-egestas-e"/>
+    <title>Bibendum egestas</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/9b196124983487-min.jpg?v=1472007802" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            1130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068150211</id>
+    <published>2016-08-19T05:01:00-04:00</published>
+    <updated>2016-08-19T05:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/lg-lfd85033-ipod-cradle"/>
+    <title>BH table plays a bigg</title>
+    <s:type></s:type>
+    <s:vendor>AP Next Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/3dc4505e400f4bbccb803a4aa0fd3efb-min.jpg?v=1472007800" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AP Next Store<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150211</id>
+      <title>Default Title</title>
+      <s:price currency="USD">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068150147</id>
+    <published>2016-08-19T05:01:00-04:00</published>
+    <updated>2016-08-19T05:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/aenean-consequat-3"/>
+    <title>Table plays a bigg</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Shopify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/design-house-cord-lamp-mini-black-white-1-min.jpg?v=1472008490" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shopify<br />
+        <strong>Type: </strong>Dresses<br />
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Under $50</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150147</id>
+      <title>Red / S</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150147</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068150147</id>
+      <title>Green / L</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-cogen.myshopify.com/products/8068149379</id>
+    <published>2016-08-19T05:01:00-04:00</published>
+    <updated>2016-08-19T05:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-cogen.myshopify.com/products/aenean-consequat-q"/>
+    <title>Lampada da Tavolo</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Shopify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1413/8964/products/pf2-min_fa0da60c-acea-4d8a-8d43-a85147b4d3b7.jpg?v=1472008260" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shopify<br />
+        <strong>Type: </strong>Dresses<br />
+        <strong>Price: </strong>
+            55.00 - 59.00
+            <a href="https://ap-cogen.myshopify.com/products/aenean-consequat-q">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50 - $100</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068149379</id>
+      <title>Silver / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10110</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068149379</id>
+      <title>Red / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>20220</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-cogen.myshopify.com/products/8068149379</id>
+      <title>Black / L</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>40404</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

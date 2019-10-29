@@ -1,0 +1,55 @@
+/* css for box multialnguage */
+.shopify-preview-bar {
+  display : none !important;
+}
+.ap-multilang-box{
+  text-transform: uppercase;
+}
+.ap-title-language{
+  display:none;
+}
+.icon-language {
+  background-position: center left !important;
+  line-height: 33px;
+}
+.icon-language span{
+  margin-left : 20px;
+}
+.list-lang{
+  right: auto;
+  left: 0;
+  margin: 0px;
+  padding: 10px;
+  min-width: 180px;
+} 
+.item-lang>a:hover{
+  background:none !important;
+  font-weight:bold;
+}
+.item-lang.active>a, 
+.item-lang.active>a:hover, 
+.item-lang.active>a:focus{
+  background:none;
+  color:#33c9db !important;
+  font-weight:bold;
+  padding: 0 10px;
+}
+
+.ap-multilang-box {
+  float : left;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.ap-multilang-box img {
+  margin : 0px 5px;
+}
+
+.dropit-submenu {
+  background-color : white;
+  border : 1px solid #e8e8e8;
+}
+
+.item-lang:hover {
+  background-color: #f8f8f8;
+}
